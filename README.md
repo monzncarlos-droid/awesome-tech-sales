@@ -10,6 +10,7 @@ This list focuses on the unique challenges of selling to a technical audience â€
 - [Developer & Engineering Audience Data](#developer--engineering-audience-data)
 - [Account-Based Marketing for Tech](#account-based-marketing-for-tech)
 - [Demo & Product-Led Sales](#demo--product-led-sales)
+- [Partner & Affiliate Sales](#partner--affiliate-sales)
 - [Tech Sales Communities](#tech-sales-communities)
 - [Books & Newsletters](#books--newsletters)
 - [Contributing](#contributing)
@@ -48,6 +49,9 @@ This list focuses on the unique challenges of selling to a technical audience â€
 * [Reprise](https://www.reprise.com) - Demo creation platform.
 * [Storylane](https://storylane.io) - Interactive product tours and demos.
 * [Common Room](https://www.commonroom.io) - Community-led growth and PLG signal capture.
+
+## Partner & Affiliate Sales
+* [Power CM Partners](https://partners.powercm-software.com/) - Software partner and creator network with tracked campaigns, attributed registrations, verified eligible sales and commissions.
 
 ## Tech Sales Communities
 *Where revenue leaders share what's working.*
